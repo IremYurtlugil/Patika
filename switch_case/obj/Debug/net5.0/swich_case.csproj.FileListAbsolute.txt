@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Uygulamalar\Patika\swich_case\bin\Debug\net5.0\swich_case.exe
+C:\Users\user\Desktop\Uygulamalar\Patika\swich_case\bin\Debug\net5.0\swich_case.deps.json
+C:\Users\user\Desktop\Uygulamalar\Patika\swich_case\bin\Debug\net5.0\swich_case.runtimeconfig.json
+C:\Users\user\Desktop\Uygulamalar\Patika\swich_case\bin\Debug\net5.0\swich_case.runtimeconfig.dev.json
+C:\Users\user\Desktop\Uygulamalar\Patika\swich_case\bin\Debug\net5.0\swich_case.dll
+C:\Users\user\Desktop\Uygulamalar\Patika\swich_case\bin\Debug\net5.0\ref\swich_case.dll
+C:\Users\user\Desktop\Uygulamalar\Patika\swich_case\bin\Debug\net5.0\swich_case.pdb
+C:\Users\user\Desktop\Uygulamalar\Patika\swich_case\obj\Debug\net5.0\swich_case.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Uygulamalar\Patika\swich_case\obj\Debug\net5.0\swich_case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Uygulamalar\Patika\swich_case\obj\Debug\net5.0\swich_case.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Uygulamalar\Patika\swich_case\obj\Debug\net5.0\swich_case.AssemblyInfo.cs
+C:\Users\user\Desktop\Uygulamalar\Patika\swich_case\obj\Debug\net5.0\swich_case.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Uygulamalar\Patika\swich_case\obj\Debug\net5.0\swich_case.dll
+C:\Users\user\Desktop\Uygulamalar\Patika\swich_case\obj\Debug\net5.0\ref\swich_case.dll
+C:\Users\user\Desktop\Uygulamalar\Patika\swich_case\obj\Debug\net5.0\swich_case.pdb
+C:\Users\user\Desktop\Uygulamalar\Patika\swich_case\obj\Debug\net5.0\swich_case.genruntimeconfig.cache
