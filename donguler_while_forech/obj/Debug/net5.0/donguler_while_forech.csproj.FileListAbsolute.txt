@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Uygulamalar\Patika\donguler_while_forech\bin\Debug\net5.0\donguler_while_forech.exe
+C:\Users\user\Desktop\Uygulamalar\Patika\donguler_while_forech\bin\Debug\net5.0\donguler_while_forech.deps.json
+C:\Users\user\Desktop\Uygulamalar\Patika\donguler_while_forech\bin\Debug\net5.0\donguler_while_forech.runtimeconfig.json
+C:\Users\user\Desktop\Uygulamalar\Patika\donguler_while_forech\bin\Debug\net5.0\donguler_while_forech.runtimeconfig.dev.json
+C:\Users\user\Desktop\Uygulamalar\Patika\donguler_while_forech\bin\Debug\net5.0\donguler_while_forech.dll
+C:\Users\user\Desktop\Uygulamalar\Patika\donguler_while_forech\bin\Debug\net5.0\ref\donguler_while_forech.dll
+C:\Users\user\Desktop\Uygulamalar\Patika\donguler_while_forech\bin\Debug\net5.0\donguler_while_forech.pdb
+C:\Users\user\Desktop\Uygulamalar\Patika\donguler_while_forech\obj\Debug\net5.0\donguler_while_forech.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Uygulamalar\Patika\donguler_while_forech\obj\Debug\net5.0\donguler_while_forech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Uygulamalar\Patika\donguler_while_forech\obj\Debug\net5.0\donguler_while_forech.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Uygulamalar\Patika\donguler_while_forech\obj\Debug\net5.0\donguler_while_forech.AssemblyInfo.cs
+C:\Users\user\Desktop\Uygulamalar\Patika\donguler_while_forech\obj\Debug\net5.0\donguler_while_forech.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Uygulamalar\Patika\donguler_while_forech\obj\Debug\net5.0\donguler_while_forech.dll
+C:\Users\user\Desktop\Uygulamalar\Patika\donguler_while_forech\obj\Debug\net5.0\ref\donguler_while_forech.dll
+C:\Users\user\Desktop\Uygulamalar\Patika\donguler_while_forech\obj\Debug\net5.0\donguler_while_forech.pdb
+C:\Users\user\Desktop\Uygulamalar\Patika\donguler_while_forech\obj\Debug\net5.0\donguler_while_forech.genruntimeconfig.cache
